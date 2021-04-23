@@ -37,6 +37,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@ant-design/compatible": "^1.0.8",
     "@ant-design/icons": "^4.6.2",
     "@types/react": "16.14.5",
     "antd": "4.15.2",

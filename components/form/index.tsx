@@ -1,5 +1,6 @@
 import React, { Component } from "react";
-import { Form as AntdForm } from "antd";
+import { Form as AntdForm } from "@ant-design/compatible";
+import "@ant-design/compatible/assets/index.css";
 import * as AntdFormInterface from "antd/es/form";
 import ClassNames from "classnames";
 
