@@ -1,0 +1,116 @@
+{
+  "name": "leap-ui",
+  "version": "0.0.25",
+  "description": "A UI component library based on React",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "typings": "es/index.d.ts",
+  "files": [
+    "es/",
+    "lib/"
+  ],
+  "scripts": {
+    "eslint": "eslint --config .eslintrc --ext .tsx,.ts components/",
+    "eslint:strict": "eslint --report-unused-disable-directives --no-inline-config --config .eslintrc --ext .tsx,.ts components/",
+    "eslint:fix": "eslint --fix --config .eslintrc --ext .tsx,.ts components/",
+    "format:check:style": "prettier --check 'components/**/*.{css,less}'",
+    "format:check:ts": "prettier --check 'components/**/*.{ts,tsx}'",
+    "format:style": "prettier --write 'components/**/*.{css,less}'",
+    "format:ts": "prettier --write 'components/**/*.{ts,tsx}'",
+    "format:story": "prettier --write 'stories/**/*.{ts,tsx}'",
+    "stylelint": "stylelint components/**/*.{css,less}",
+    "prepublishOnly": "npm run build",
+    "build": "npm run build:es && npm run build:cjs && npm run build:css",
+    "build:es": "rimraf es && tsc -p tsconfig.json --module ESNext --outDir es",
+    "build:cjs": "rimraf lib && tsc -p tsconfig.json --module CommonJS --outDir lib",
+    "build:css": "gulp",
+    "storybook": "start-storybook -p 8000 -c .storybook",
+    "dev": "npm run build && start-storybook -p 8000 -c .storybook",
+    "compile:story": "tsc -p tsconfig.story.json --noEmit --diagnostics",
+    "compile:component": "tsc -p tsconfig.json --noEmit --diagnostics",
+    "build-storybook": "build-storybook -c .storybook -o .out",
+    "release:pre": "np prerelease --tag=beta --yolo --no-2fa",
+    "release:prod": "np patch --tag=latest --yolo --no-2fa",
+    "commit": "npm run eslint && npm run stylelint && npm run format:check:ts && npm run format:check:style && git cz"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ant-design/icons": "^4.6.2",
+    "@types/react": "16.14.5",
+    "antd": "4.15.2",
+    "classnames": "^2.2.6",
+    "moment": "^2.25.3",
+    "rc-field-form": "^1.8.0",
+    "rc-picker": "^1.15.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/plugin-proposal-class-properties": "^7.5.5",
+    "@babel/preset-env": "^7.7.1",
+    "@babel/preset-react": "^7.7.0",
+    "@babel/preset-typescript": "^7.7.2",
+    "@commitlint/cli": "^9.1.1",
+    "@commitlint/config-conventional": "^9.1.1",
+    "@storybook/addon-actions": "^5.2.6",
+    "@storybook/addon-info": "^5.2.6",
+    "@storybook/addon-links": "^5.2.6",
+    "@storybook/addon-notes": "^5.2.6",
+    "@storybook/addons": "^5.2.6",
+    "@storybook/react": "^5.2.6",
+    "@types/classnames": "^2.2.10",
+    "@typescript-eslint/eslint-plugin": "^2.34.0",
+    "@typescript-eslint/parser": "^2.34.0",
+    "babel-loader": "^8.0.6",
+    "commitizen": "^4.1.2",
+    "cz-conventional-changelog": "^3.2.0",
+    "eslint": "^6.8.0",
+    "eslint-config-leap": "^1.0.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-loader": "^3.0.3",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.16.0",
+    "eslint-plugin-react-hooks": "^3.0.0",
+    "file-loader": "^5.1.0",
+    "gulp": "^3.9.1",
+    "husky": "^3.0.9",
+    "jest": "^25.1.0",
+    "less": "^2.7.3",
+    "less-loader": "^5.0.0",
+    "np": "^6.5.0",
+    "postcss-loader": "^3.0.0",
+    "postcss-preset-env": "^6.7.0",
+    "prettier": "^1.19.1",
+    "rimraf": "^3.0.2",
+    "storybook-readme": "^5.0.8",
+    "style-loader": "^1.0.0",
+    "stylelint": "^13.5.0",
+    "stylelint-config-prettier": "^8.0.1",
+    "stylelint-config-standard": "^20.0.0",
+    "typescript": "3.8.3",
+    "url-loader": "^2.2.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.8.2"
+  },
+  "peerDependencies": {
+    "react": ">=16.0.0",
+    "react-dom": ">=16.0.0"
+  },
+  "optionalDependencies": {
+    "react": ">=16.0.0",
+    "react-dom": ">=16.0.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  }
+}

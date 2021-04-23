@@ -1,0 +1,3220 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": [
+    {
+      "id": 1,
+      "name": "励步产品",
+      "category_status_id": 1,
+      "pid": 0,
+      "child": [
+        {
+          "id": 41,
+          "name": "英语",
+          "category_status_id": 1,
+          "pid": 1,
+          "child": [
+            {
+              "id": 2,
+              "name": "常规班",
+              "category_status_id": 1,
+              "pid": 41,
+              "child": [
+                {
+                  "id": 8,
+                  "name": "Stage 128 (2012版)",
+                  "category_status_id": 1,
+                  "pid": 2,
+                  "child": [
+                    {
+                      "id": 3,
+                      "name": "Stage 1",
+                      "product_id": 42,
+                      "product_category_id": 8,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 4,
+                      "name": "Stage 10",
+                      "product_id": 43,
+                      "product_category_id": 8,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 5,
+                      "name": "Stage 2",
+                      "product_id": 44,
+                      "product_category_id": 8,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 6,
+                      "name": "Stage 3",
+                      "product_id": 45,
+                      "product_category_id": 8,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 7,
+                      "name": "Stage 4(入口)",
+                      "product_id": 48,
+                      "product_category_id": 8,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 8,
+                      "name": "Stage 4(升级)",
+                      "product_id": 48,
+                      "product_category_id": 8,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 9,
+                      "name": "Stage 5",
+                      "product_id": 50,
+                      "product_category_id": 8,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 10,
+                      "name": "Stage 6",
+                      "product_id": 51,
+                      "product_category_id": 8,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 11,
+                      "name": "Stage 7",
+                      "product_id": 52,
+                      "product_category_id": 8,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 12,
+                      "name": "Stage 8",
+                      "product_id": 53,
+                      "product_category_id": 8,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 13,
+                      "name": "Stage 9",
+                      "product_id": 54,
+                      "product_category_id": 8,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 146,
+                      "name": "Stage 2(入口)",
+                      "product_id": 44,
+                      "product_category_id": 8,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 220,
+                      "name": "Stage 1-129",
+                      "product_id": 312,
+                      "product_category_id": 8,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 221,
+                      "name": "Stage 2-129",
+                      "product_id": 313,
+                      "product_category_id": 8,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 222,
+                      "name": "Stage 4-129",
+                      "product_id": 314,
+                      "product_category_id": 8,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 223,
+                      "name": "Stage 3-129",
+                      "product_id": 315,
+                      "product_category_id": 8,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 232,
+                      "name": "Stage 5-129",
+                      "product_id": 324,
+                      "product_category_id": 8,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 252,
+                      "name": "Stage 1-129-HF",
+                      "product_id": 344,
+                      "product_category_id": 8,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 253,
+                      "name": "Stage 2-129-HF",
+                      "product_id": 345,
+                      "product_category_id": 8,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 254,
+                      "name": "Stage 3-129-HF",
+                      "product_id": 346,
+                      "product_category_id": 8,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 255,
+                      "name": "Stage 4-129-HF",
+                      "product_id": 347,
+                      "product_category_id": 8,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 256,
+                      "name": "Stage 5-129-HF",
+                      "product_id": 348,
+                      "product_category_id": 8,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 9,
+                  "name": "新产品 (2018版)",
+                  "category_status_id": 1,
+                  "pid": 2,
+                  "child": [
+                    {
+                      "id": 168,
+                      "name": "G1A-2018",
+                      "product_id": 258,
+                      "product_category_id": 9,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 201,
+                      "name": "K1A-2018",
+                      "product_id": 301,
+                      "product_category_id": 9,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 202,
+                      "name": "K2A(入口)-2018",
+                      "product_id": 302,
+                      "product_category_id": 9,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 203,
+                      "name": "G1A-2018",
+                      "product_id": 258,
+                      "product_category_id": 9,
+                      "version_name": "2"
+                    },
+                    {
+                      "id": 204,
+                      "name": "G1B-2018",
+                      "product_id": 304,
+                      "product_category_id": 9,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 205,
+                      "name": "G1A-2018",
+                      "product_id": 258,
+                      "product_category_id": 9,
+                      "version_name": "3"
+                    },
+                    {
+                      "id": 206,
+                      "name": "G1B-2018",
+                      "product_id": 304,
+                      "product_category_id": 9,
+                      "version_name": "2"
+                    },
+                    {
+                      "id": 207,
+                      "name": "K1A-2018",
+                      "product_id": 301,
+                      "product_category_id": 9,
+                      "version_name": "2"
+                    },
+                    {
+                      "id": 208,
+                      "name": "K2A(入口)-2018",
+                      "product_id": 302,
+                      "product_category_id": 9,
+                      "version_name": "2"
+                    },
+                    {
+                      "id": 213,
+                      "name": "G2A-2018",
+                      "product_id": 305,
+                      "product_category_id": 9,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 214,
+                      "name": "G2B-2018",
+                      "product_id": 306,
+                      "product_category_id": 9,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 219,
+                      "name": "G0-2018",
+                      "product_id": 311,
+                      "product_category_id": 9,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 231,
+                      "name": "G3A-2018",
+                      "product_id": 323,
+                      "product_category_id": 9,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 233,
+                      "name": "K1B-2018",
+                      "product_id": 325,
+                      "product_category_id": 9,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 234,
+                      "name": "K2B-2018",
+                      "product_id": 326,
+                      "product_category_id": 9,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 235,
+                      "name": "G0-NJ",
+                      "product_id": 327,
+                      "product_category_id": 9,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 236,
+                      "name": "G1A-NJ",
+                      "product_id": 328,
+                      "product_category_id": 9,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 237,
+                      "name": "G1B-NJ",
+                      "product_id": 329,
+                      "product_category_id": 9,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 238,
+                      "name": "G2A-NJ",
+                      "product_id": 330,
+                      "product_category_id": 9,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 239,
+                      "name": "G2B-NJ",
+                      "product_id": 331,
+                      "product_category_id": 9,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 240,
+                      "name": "G3A-NJ",
+                      "product_id": 332,
+                      "product_category_id": 9,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 241,
+                      "name": "G3B-NJ",
+                      "product_id": 333,
+                      "product_category_id": 9,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 242,
+                      "name": "G0-2018",
+                      "product_id": 334,
+                      "product_category_id": 9,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 10,
+                  "name": "SS 192",
+                  "category_status_id": 1,
+                  "pid": 2,
+                  "child": [
+                    {
+                      "id": 49,
+                      "name": "OL-SS4-N",
+                      "product_id": 195,
+                      "product_category_id": 10,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 51,
+                      "name": "SS1-N",
+                      "product_id": 197,
+                      "product_category_id": 10,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 52,
+                      "name": "SS2-N",
+                      "product_id": 198,
+                      "product_category_id": 10,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 53,
+                      "name": "SS3-N",
+                      "product_id": 199,
+                      "product_category_id": 10,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 54,
+                      "name": "SS4-N",
+                      "product_id": 200,
+                      "product_category_id": 10,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 55,
+                      "name": "OL-SS1-N",
+                      "product_id": 201,
+                      "product_category_id": 10,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 56,
+                      "name": "OL-SS2-N",
+                      "product_id": 202,
+                      "product_category_id": 10,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 57,
+                      "name": "OL-SS3-N",
+                      "product_id": 203,
+                      "product_category_id": 10,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 209,
+                      "name": "SS1-N",
+                      "product_id": 197,
+                      "product_category_id": 10,
+                      "version_name": "2"
+                    },
+                    {
+                      "id": 210,
+                      "name": "SS2-N",
+                      "product_id": 198,
+                      "product_category_id": 10,
+                      "version_name": "2"
+                    },
+                    {
+                      "id": 211,
+                      "name": "SS3-N",
+                      "product_id": 199,
+                      "product_category_id": 10,
+                      "version_name": "2"
+                    },
+                    {
+                      "id": 212,
+                      "name": "SS4-N",
+                      "product_id": 200,
+                      "product_category_id": 10,
+                      "version_name": "2"
+                    }
+                  ]
+                },
+                {
+                  "id": 11,
+                  "name": "Level 192",
+                  "category_status_id": 1,
+                  "pid": 2,
+                  "child": [
+                    {
+                      "id": 15,
+                      "name": "Level 4",
+                      "product_id": 66,
+                      "product_category_id": 11,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 16,
+                      "name": "Level 5",
+                      "product_id": 71,
+                      "product_category_id": 11,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 33,
+                  "name": "全天班",
+                  "category_status_id": 1,
+                  "pid": 2,
+                  "child": [
+                    {
+                      "id": 21,
+                      "name": "Leap Start JS 全天班",
+                      "product_id": 93,
+                      "product_category_id": 33,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 22,
+                      "name": "Leap Start KS 全天班",
+                      "product_id": 94,
+                      "product_category_id": 33,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 37,
+                  "name": "新产品(2019版本)",
+                  "category_status_id": 1,
+                  "pid": 2,
+                  "child": [
+                    {
+                      "id": 243,
+                      "name": "G1A",
+                      "product_id": 335,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 244,
+                      "name": "G1B",
+                      "product_id": 336,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 245,
+                      "name": "G2A",
+                      "product_id": 337,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 246,
+                      "name": "G2B",
+                      "product_id": 338,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 247,
+                      "name": "G3A",
+                      "product_id": 339,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 248,
+                      "name": "G3B",
+                      "product_id": 340,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 259,
+                      "name": "G0",
+                      "product_id": 351,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 260,
+                      "name": "K1A",
+                      "product_id": 352,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 261,
+                      "name": "K1B",
+                      "product_id": 353,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 262,
+                      "name": "K2A",
+                      "product_id": 354,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 263,
+                      "name": "K2B",
+                      "product_id": 355,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 264,
+                      "name": "K3A",
+                      "product_id": 356,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 265,
+                      "name": "K3B",
+                      "product_id": 357,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 266,
+                      "name": "G1A(12月)",
+                      "product_id": 358,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 267,
+                      "name": "G1B(12月)",
+                      "product_id": 359,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 268,
+                      "name": "G2A(12月)",
+                      "product_id": 360,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 269,
+                      "name": "G2B(12月)",
+                      "product_id": 361,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 270,
+                      "name": "G3A(12月)",
+                      "product_id": 362,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 271,
+                      "name": "G3B(12月)",
+                      "product_id": 363,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 284,
+                      "name": "G1A（40课时）",
+                      "product_id": 376,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 285,
+                      "name": "G1A（3/9月）",
+                      "product_id": 377,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 286,
+                      "name": "G1B（3/9月）",
+                      "product_id": 378,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 287,
+                      "name": "G2A（3/9月）",
+                      "product_id": 379,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 288,
+                      "name": "G2B（3/9月）",
+                      "product_id": 380,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 289,
+                      "name": "G3A（3/9月）",
+                      "product_id": 381,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 290,
+                      "name": "G3B（3/9月）",
+                      "product_id": 382,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 294,
+                      "name": "G1B（40课时）",
+                      "product_id": 386,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 295,
+                      "name": "G2A（40课时）",
+                      "product_id": 387,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 296,
+                      "name": "G3A（40课时）",
+                      "product_id": 388,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 298,
+                      "name": "G2B（40课时）",
+                      "product_id": 390,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 375,
+                      "name": "G3B（40课时）",
+                      "product_id": 468,
+                      "product_category_id": 37,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 38,
+                  "name": "摩比",
+                  "category_status_id": 1,
+                  "pid": 2,
+                  "child": [
+                    {
+                      "id": 250,
+                      "name": "思维萌盒A",
+                      "product_id": 342,
+                      "product_category_id": 38,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 251,
+                      "name": "思维萌盒B",
+                      "product_id": 343,
+                      "product_category_id": 38,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 64,
+                  "name": "外教小班Live",
+                  "category_status_id": 1,
+                  "pid": 2,
+                  "child": [
+                    {
+                      "id": 324,
+                      "name": "K1A数学（下）-南北",
+                      "product_id": 417,
+                      "product_category_id": 64,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 418,
+                      "name": "外教小班Live一级上",
+                      "product_id": 511,
+                      "product_category_id": 64,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 419,
+                      "name": "外教小班Live一级下",
+                      "product_id": 512,
+                      "product_category_id": 64,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 420,
+                      "name": "外教小班Live二级上",
+                      "product_id": 513,
+                      "product_category_id": 64,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 421,
+                      "name": "外教小班Live二级下",
+                      "product_id": 514,
+                      "product_category_id": 64,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 422,
+                      "name": "外教小班Live一级",
+                      "product_id": 515,
+                      "product_category_id": 64,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 423,
+                      "name": "外教小班Live二级",
+                      "product_id": 516,
+                      "product_category_id": 64,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 424,
+                      "name": "外教小班Live2A-1 ",
+                      "product_id": 517,
+                      "product_category_id": 64,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 68,
+                  "name": "外教小班Live(废弃)",
+                  "category_status_id": 1,
+                  "pid": 2,
+                  "child": [
+                    {
+                      "id": 376,
+                      "name": "外教小班Live一级上（已废弃）",
+                      "product_id": 469,
+                      "product_category_id": 68,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 377,
+                      "name": "外教小班Live一级下（已废弃）",
+                      "product_id": 470,
+                      "product_category_id": 68,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 378,
+                      "name": "外教小班Live二级上（已废弃）",
+                      "product_id": 471,
+                      "product_category_id": 68,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 379,
+                      "name": "外教小班Live二级下（已废弃）",
+                      "product_id": 472,
+                      "product_category_id": 68,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 380,
+                      "name": "外教小班Live一级（已废弃）",
+                      "product_id": 473,
+                      "product_category_id": 68,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 381,
+                      "name": "外教小班Live二级（已废弃）",
+                      "product_id": 474,
+                      "product_category_id": 68,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 417,
+                      "name": "外教小班Live2A-1（已废弃）",
+                      "product_id": 510,
+                      "product_category_id": 68,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 75,
+                  "name": "精读Level系列",
+                  "category_status_id": 1,
+                  "pid": 2,
+                  "child": [
+                    {
+                      "id": 480,
+                      "name": "凯迪克初阶L1-1",
+                      "product_id": 573,
+                      "product_category_id": 75,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 77,
+                  "name": "幼儿K系列",
+                  "category_status_id": 1,
+                  "pid": 2,
+                  "child": [
+                    {
+                      "id": 489,
+                      "name": "K-1",
+                      "product_id": 582,
+                      "product_category_id": 77,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 490,
+                      "name": "GK-1",
+                      "product_id": 583,
+                      "product_category_id": 77,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 495,
+                      "name": "K-3",
+                      "product_id": 588,
+                      "product_category_id": 77,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 496,
+                      "name": "英语K-2",
+                      "product_id": 589,
+                      "product_category_id": 77,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 497,
+                      "name": "英语K-4",
+                      "product_id": 590,
+                      "product_category_id": 77,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 498,
+                      "name": "英语GK-2",
+                      "product_id": 591,
+                      "product_category_id": 77,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 499,
+                      "name": "英语GK-3",
+                      "product_id": 592,
+                      "product_category_id": 77,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 500,
+                      "name": "英语GK-4",
+                      "product_id": 593,
+                      "product_category_id": 77,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 78,
+                  "name": "小学G系列",
+                  "category_status_id": 1,
+                  "pid": 2,
+                  "child": [
+                    {
+                      "id": 491,
+                      "name": "G0-1",
+                      "product_id": 584,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 492,
+                      "name": "G1-1线下",
+                      "product_id": 585,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 493,
+                      "name": "G1-1线上",
+                      "product_id": 586,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 501,
+                      "name": "英语G0-2",
+                      "product_id": 594,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 502,
+                      "name": "英语G0-3",
+                      "product_id": 595,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 503,
+                      "name": "英语G0-4",
+                      "product_id": 596,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 504,
+                      "name": "英语G1-2中教",
+                      "product_id": 597,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 505,
+                      "name": "英语G1-2外教",
+                      "product_id": 598,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 506,
+                      "name": "英语G1-3中教",
+                      "product_id": 599,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 507,
+                      "name": "英语G1-3外教",
+                      "product_id": 600,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 508,
+                      "name": "英语G1-4中教",
+                      "product_id": 601,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 509,
+                      "name": "英语G1-4外教",
+                      "product_id": 602,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 510,
+                      "name": "英语G2-1中教",
+                      "product_id": 603,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 511,
+                      "name": "英语G2-1外教",
+                      "product_id": 604,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 512,
+                      "name": "英语G2-2中教",
+                      "product_id": 605,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 513,
+                      "name": "英语G2-2外教",
+                      "product_id": 606,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 514,
+                      "name": "英语G2-3中教",
+                      "product_id": 607,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 515,
+                      "name": "英语G2-3外教",
+                      "product_id": 608,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 516,
+                      "name": "英语G2-4中教",
+                      "product_id": 609,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 517,
+                      "name": "英语G2-4外教",
+                      "product_id": 610,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 518,
+                      "name": "英语G3-1中教",
+                      "product_id": 611,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 519,
+                      "name": "英语G3-1外教",
+                      "product_id": 612,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 520,
+                      "name": "英语G3-2中教",
+                      "product_id": 613,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 521,
+                      "name": "英语G3-2外教",
+                      "product_id": 614,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 522,
+                      "name": "英语G3-3中教",
+                      "product_id": 615,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 523,
+                      "name": "英语G3-3外教",
+                      "product_id": 616,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 524,
+                      "name": "英语G3-4中教",
+                      "product_id": 617,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 525,
+                      "name": "英语G3-4外教",
+                      "product_id": 618,
+                      "product_category_id": 78,
+                      "version_name": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": "Demo",
+              "category_status_id": 1,
+              "pid": 41,
+              "child": [
+                { "id": 12, "name": "BS Demo", "category_status_id": 1, "pid": 3, "child": [] },
+                {
+                  "id": 13,
+                  "name": "KS Demo",
+                  "category_status_id": 1,
+                  "pid": 3,
+                  "child": [
+                    {
+                      "id": 144,
+                      "name": "KS 3-4.5",
+                      "product_id": 235,
+                      "product_category_id": 13,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 14,
+                  "name": "JS Demo",
+                  "category_status_id": 1,
+                  "pid": 3,
+                  "child": [
+                    {
+                      "id": 143,
+                      "name": "JS 3-4.5",
+                      "product_id": 234,
+                      "product_category_id": 14,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 145,
+                      "name": "JS 4.5-6",
+                      "product_id": 236,
+                      "product_category_id": 14,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                { "id": 15, "name": "ES Demo", "category_status_id": 1, "pid": 3, "child": [] }
+              ]
+            },
+            {
+              "id": 4,
+              "name": "测试",
+              "category_status_id": 1,
+              "pid": 41,
+              "child": [
+                { "id": 16, "name": "KJE入学测试", "category_status_id": 1, "pid": 4, "child": [] },
+                { "id": 17, "name": "插班测试", "category_status_id": 1, "pid": 4, "child": [] },
+                { "id": 18, "name": "SS入学测试", "category_status_id": 1, "pid": 4, "child": [] }
+              ]
+            },
+            {
+              "id": 5,
+              "name": "短期班",
+              "category_status_id": 1,
+              "pid": 41,
+              "child": [
+                { "id": 19, "name": "短期班测试", "category_status_id": 1, "pid": 5, "child": [] },
+                {
+                  "id": 20,
+                  "name": "GESE",
+                  "category_status_id": 1,
+                  "pid": 5,
+                  "child": [
+                    {
+                      "id": 147,
+                      "name": "GESE1",
+                      "product_id": 238,
+                      "product_category_id": 20,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 148,
+                      "name": "GESE2",
+                      "product_id": 239,
+                      "product_category_id": 20,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 149,
+                      "name": "GESE3",
+                      "product_id": 240,
+                      "product_category_id": 20,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 150,
+                      "name": "GESE4",
+                      "product_id": 241,
+                      "product_category_id": 20,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 151,
+                      "name": "GESE5",
+                      "product_id": 242,
+                      "product_category_id": 20,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 152,
+                      "name": "GESE6",
+                      "product_id": 243,
+                      "product_category_id": 20,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 229,
+                      "name": "GESE3-OL",
+                      "product_id": 321,
+                      "product_category_id": 20,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 22,
+                  "name": "MSE",
+                  "category_status_id": 1,
+                  "pid": 5,
+                  "child": [
+                    {
+                      "id": 165,
+                      "name": "KET",
+                      "product_id": 255,
+                      "product_category_id": 22,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 227,
+                      "name": "Pre-KET-OL",
+                      "product_id": 319,
+                      "product_category_id": 22,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 228,
+                      "name": "Pre-PET-OL",
+                      "product_id": 320,
+                      "product_category_id": 22,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 230,
+                      "name": "Pre-KET",
+                      "product_id": 322,
+                      "product_category_id": 22,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 278,
+                      "name": "Pre-KET",
+                      "product_id": 370,
+                      "product_category_id": 22,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 23,
+                  "name": "IL",
+                  "category_status_id": 1,
+                  "pid": 5,
+                  "child": [
+                    {
+                      "id": 225,
+                      "name": "IL1",
+                      "product_id": 317,
+                      "product_category_id": 23,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 226,
+                      "name": "IL2",
+                      "product_id": 318,
+                      "product_category_id": 23,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 24,
+                  "name": "SP",
+                  "category_status_id": 1,
+                  "pid": 5,
+                  "child": [
+                    {
+                      "id": 156,
+                      "name": "SP-I",
+                      "product_id": 247,
+                      "product_category_id": 24,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 157,
+                      "name": "SP-C",
+                      "product_id": 248,
+                      "product_category_id": 24,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 272,
+                      "name": "SP-C上",
+                      "product_id": 364,
+                      "product_category_id": 24,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 273,
+                      "name": "SP-C下",
+                      "product_id": 365,
+                      "product_category_id": 24,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 25,
+                  "name": "TP",
+                  "category_status_id": 1,
+                  "pid": 5,
+                  "child": [
+                    {
+                      "id": 158,
+                      "name": "TP-I",
+                      "product_id": 249,
+                      "product_category_id": 25,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 159,
+                      "name": "TP-C",
+                      "product_id": 250,
+                      "product_category_id": 25,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 274,
+                      "name": "TP-C上",
+                      "product_id": 366,
+                      "product_category_id": 25,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 275,
+                      "name": "TP-C下",
+                      "product_id": 367,
+                      "product_category_id": 25,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 39,
+                  "name": "PS",
+                  "category_status_id": 1,
+                  "pid": 5,
+                  "child": [
+                    {
+                      "id": 257,
+                      "name": "PS 1",
+                      "product_id": 349,
+                      "product_category_id": 39,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 258,
+                      "name": "PS 2",
+                      "product_id": 350,
+                      "product_category_id": 39,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 40,
+                  "name": "PRE",
+                  "category_status_id": 1,
+                  "pid": 5,
+                  "child": [
+                    {
+                      "id": 283,
+                      "name": "Pre-K",
+                      "product_id": 375,
+                      "product_category_id": 40,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 313,
+                      "name": "Pre-K1",
+                      "product_id": 406,
+                      "product_category_id": 40,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 404,
+                      "name": "Pre-K1（线下）",
+                      "product_id": 497,
+                      "product_category_id": 40,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 405,
+                      "name": "Pre-K2（线下）",
+                      "product_id": 498,
+                      "product_category_id": 40,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 406,
+                      "name": "Pre-G0（线下）",
+                      "product_id": 499,
+                      "product_category_id": 40,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 53,
+                  "name": "Baby Running",
+                  "category_status_id": 1,
+                  "pid": 5,
+                  "child": [
+                    {
+                      "id": 297,
+                      "name": "BR",
+                      "product_id": 389,
+                      "product_category_id": 53,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 54,
+                  "name": "RW",
+                  "category_status_id": 1,
+                  "pid": 5,
+                  "child": [
+                    {
+                      "id": 300,
+                      "name": "RW1",
+                      "product_id": 392,
+                      "product_category_id": 54,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 301,
+                      "name": "RW2",
+                      "product_id": 393,
+                      "product_category_id": 54,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 302,
+                      "name": "RW3",
+                      "product_id": 394,
+                      "product_category_id": 54,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 303,
+                      "name": "RW4",
+                      "product_id": 395,
+                      "product_category_id": 54,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 304,
+                      "name": "RW5",
+                      "product_id": 396,
+                      "product_category_id": 54,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 56,
+                  "name": "Phonics",
+                  "category_status_id": 1,
+                  "pid": 5,
+                  "child": [
+                    {
+                      "id": 308,
+                      "name": "PHP-2020",
+                      "product_id": 400,
+                      "product_category_id": 56,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 387,
+                      "name": "PW1A",
+                      "product_id": 480,
+                      "product_category_id": 56,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 388,
+                      "name": "PW1B",
+                      "product_id": 481,
+                      "product_category_id": 56,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 389,
+                      "name": "PW2A",
+                      "product_id": 482,
+                      "product_category_id": 56,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 390,
+                      "name": "PW2B",
+                      "product_id": 483,
+                      "product_category_id": 56,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 443,
+                      "name": "PW1",
+                      "product_id": 536,
+                      "product_category_id": 56,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 444,
+                      "name": "PW2",
+                      "product_id": 537,
+                      "product_category_id": 56,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 57,
+                  "name": "Reading",
+                  "category_status_id": 1,
+                  "pid": 5,
+                  "child": [
+                    {
+                      "id": 309,
+                      "name": "RS1",
+                      "product_id": 401,
+                      "product_category_id": 57,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 310,
+                      "name": "RS2",
+                      "product_id": 402,
+                      "product_category_id": 57,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 58,
+                  "name": "MSE",
+                  "category_status_id": 1,
+                  "pid": 5,
+                  "child": [
+                    {
+                      "id": 311,
+                      "name": "KET-CY",
+                      "product_id": 403,
+                      "product_category_id": 58,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 312,
+                      "name": "KET-YX",
+                      "product_id": 404,
+                      "product_category_id": 58,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 62,
+                  "name": "外教口语课",
+                  "category_status_id": 1,
+                  "pid": 5,
+                  "child": [
+                    {
+                      "id": 362,
+                      "name": "外教口语1级",
+                      "product_id": 455,
+                      "product_category_id": 62,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 363,
+                      "name": "外教口语2级",
+                      "product_id": 456,
+                      "product_category_id": 62,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 364,
+                      "name": "外教口语3级",
+                      "product_id": 457,
+                      "product_category_id": 62,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 365,
+                      "name": "外教口语4级",
+                      "product_id": 458,
+                      "product_category_id": 62,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 366,
+                      "name": "外教口语5级",
+                      "product_id": 459,
+                      "product_category_id": 62,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 367,
+                      "name": "外教口语6级",
+                      "product_id": 460,
+                      "product_category_id": 62,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 368,
+                      "name": "外教口语7级",
+                      "product_id": 461,
+                      "product_category_id": 62,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 394,
+                      "name": "NJ外教口语小班课四级",
+                      "product_id": 487,
+                      "product_category_id": 62,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 395,
+                      "name": "NJ外教口语小班课五级",
+                      "product_id": 488,
+                      "product_category_id": 62,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 396,
+                      "name": "NJ外教口语小班课六级",
+                      "product_id": 489,
+                      "product_category_id": 62,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 397,
+                      "name": "NJ外教口语小班课七级",
+                      "product_id": 490,
+                      "product_category_id": 62,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 65,
+                  "name": "外教小班Live",
+                  "category_status_id": 1,
+                  "pid": 5,
+                  "child": [
+                    {
+                      "id": 382,
+                      "name": "﻿﻿外教小班Live体验课一级",
+                      "product_id": 475,
+                      "product_category_id": 65,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 383,
+                      "name": "﻿﻿外教小班Live体验课二级",
+                      "product_id": 476,
+                      "product_category_id": 65,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 72,
+                  "name": "PET",
+                  "category_status_id": 1,
+                  "pid": 5,
+                  "child": [
+                    {
+                      "id": 477,
+                      "name": "PET备考营",
+                      "product_id": 570,
+                      "product_category_id": 72,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 73,
+                  "name": "北分精华课程",
+                  "category_status_id": 1,
+                  "pid": 5,
+                  "child": [
+                    {
+                      "id": 472,
+                      "name": "北分精华课一级",
+                      "product_id": 565,
+                      "product_category_id": 73,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 473,
+                      "name": "北分精华课二级",
+                      "product_id": 566,
+                      "product_category_id": 73,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 474,
+                      "name": "北分精华课三级",
+                      "product_id": 567,
+                      "product_category_id": 73,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 475,
+                      "name": "北分精华课四级",
+                      "product_id": 568,
+                      "product_category_id": 73,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 476,
+                      "name": "北分精华课五级",
+                      "product_id": 569,
+                      "product_category_id": 73,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 479,
+                      "name": "北分精华课六级",
+                      "product_id": 572,
+                      "product_category_id": 73,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 74,
+                  "name": "FCE",
+                  "category_status_id": 1,
+                  "pid": 5,
+                  "child": [
+                    {
+                      "id": 478,
+                      "name": "FCE备考营",
+                      "product_id": 571,
+                      "product_category_id": 74,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 76,
+                  "name": "补充在线外教小班",
+                  "category_status_id": 1,
+                  "pid": 5,
+                  "child": [
+                    {
+                      "id": 481,
+                      "name": "G2A（上）补充在线外教小班",
+                      "product_id": 574,
+                      "product_category_id": 76,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 482,
+                      "name": "G2A（下）补充在线外教小班",
+                      "product_id": 575,
+                      "product_category_id": 76,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 483,
+                      "name": "G2B（上）补充在线外教小班",
+                      "product_id": 576,
+                      "product_category_id": 76,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 484,
+                      "name": "G2B（下）补充在线外教小班 ",
+                      "product_id": 577,
+                      "product_category_id": 76,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 485,
+                      "name": "G3A（上）补充在线外教小班",
+                      "product_id": 578,
+                      "product_category_id": 76,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 486,
+                      "name": "G3A（下）补充在线外教小班",
+                      "product_id": 579,
+                      "product_category_id": 76,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 487,
+                      "name": "G3B（上）补充在线外教小班",
+                      "product_id": 580,
+                      "product_category_id": 76,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 488,
+                      "name": "G3B（下）补充在线外教小班",
+                      "product_id": 581,
+                      "product_category_id": 76,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 84,
+                  "name": "KET",
+                  "category_status_id": 1,
+                  "pid": 5,
+                  "child": [
+                    {
+                      "id": 551,
+                      "name": "KET-JC",
+                      "product_id": 644,
+                      "product_category_id": 84,
+                      "version_name": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "name": "其他",
+              "category_status_id": 1,
+              "pid": 41,
+              "child": [
+                { "id": 29, "name": "预热", "category_status_id": 1, "pid": 6, "child": [] },
+                { "id": 30, "name": "活动", "category_status_id": 1, "pid": 6, "child": [] },
+                { "id": 31, "name": "赠课", "category_status_id": 1, "pid": 6, "child": [] },
+                { "id": 32, "name": "协考", "category_status_id": 1, "pid": 6, "child": [] }
+              ]
+            },
+            {
+              "id": 7,
+              "name": "BS",
+              "category_status_id": 1,
+              "pid": 41,
+              "child": [
+                {
+                  "id": 1,
+                  "name": "BabyStart 128课时",
+                  "product_id": 33,
+                  "product_category_id": 7,
+                  "version_name": "1"
+                }
+              ]
+            },
+            {
+              "id": 34,
+              "name": "双师",
+              "category_status_id": 1,
+              "pid": 41,
+              "child": [
+                {
+                  "id": 35,
+                  "name": "双师",
+                  "category_status_id": 1,
+                  "pid": 34,
+                  "child": [
+                    {
+                      "id": 215,
+                      "name": "双师K1A",
+                      "product_id": 307,
+                      "product_category_id": 35,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 216,
+                      "name": "双师K2A",
+                      "product_id": 308,
+                      "product_category_id": 35,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 217,
+                      "name": "双师G1A",
+                      "product_id": 309,
+                      "product_category_id": 35,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 218,
+                      "name": "双师G1B",
+                      "product_id": 310,
+                      "product_category_id": 35,
+                      "version_name": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "name": "语文",
+          "category_status_id": 1,
+          "pid": 1,
+          "child": [
+            {
+              "id": 45,
+              "name": "常规班",
+              "category_status_id": 1,
+              "pid": 42,
+              "child": [
+                {
+                  "id": 51,
+                  "name": "语文2020",
+                  "category_status_id": 1,
+                  "pid": 45,
+                  "child": [
+                    {
+                      "id": 354,
+                      "name": "K2A语文-北京",
+                      "product_id": 447,
+                      "product_category_id": 51,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 355,
+                      "name": "K3A语文-北京",
+                      "product_id": 448,
+                      "product_category_id": 51,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 356,
+                      "name": "G1A语文-北京",
+                      "product_id": 449,
+                      "product_category_id": 51,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 357,
+                      "name": "G2A语文-北京",
+                      "product_id": 450,
+                      "product_category_id": 51,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 372,
+                      "name": "K2A博文-上海",
+                      "product_id": 465,
+                      "product_category_id": 51,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 373,
+                      "name": "K3A博文-上海",
+                      "product_id": 466,
+                      "product_category_id": 51,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 461,
+                      "name": "G1A博文-上海",
+                      "product_id": 554,
+                      "product_category_id": 51,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 462,
+                      "name": "G2A博文-上海",
+                      "product_id": 555,
+                      "product_category_id": 51,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 463,
+                      "name": "G3A语文-北京",
+                      "product_id": 556,
+                      "product_category_id": 51,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 60,
+                  "name": "语文2020（下）",
+                  "category_status_id": 1,
+                  "pid": 45,
+                  "child": [
+                    {
+                      "id": 345,
+                      "name": "K2B语文（下）-北京",
+                      "product_id": 438,
+                      "product_category_id": 60,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 346,
+                      "name": "K3B语文（下）-北京",
+                      "product_id": 439,
+                      "product_category_id": 60,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 347,
+                      "name": "G1B语文（下）-北京",
+                      "product_id": 440,
+                      "product_category_id": 60,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 348,
+                      "name": "G2B语文（下）-北京",
+                      "product_id": 441,
+                      "product_category_id": 60,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 349,
+                      "name": "G3B语文（下）-北京",
+                      "product_id": 442,
+                      "product_category_id": 60,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 350,
+                      "name": "G4B语文（下）-北京",
+                      "product_id": 443,
+                      "product_category_id": 60,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 351,
+                      "name": "K2B博文（下）-上海",
+                      "product_id": 444,
+                      "product_category_id": 60,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 352,
+                      "name": "K3B博文（下）-上海",
+                      "product_id": 445,
+                      "product_category_id": 60,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 353,
+                      "name": "G1B博文（下）-上海",
+                      "product_id": 446,
+                      "product_category_id": 60,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 82,
+                  "name": "幼儿K系列",
+                  "category_status_id": 1,
+                  "pid": 45,
+                  "child": [
+                    {
+                      "id": 540,
+                      "name": "语文K2-2",
+                      "product_id": 633,
+                      "product_category_id": 82,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 541,
+                      "name": "语文K3-2",
+                      "product_id": 634,
+                      "product_category_id": 82,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 83,
+                  "name": "小学G系列",
+                  "category_status_id": 1,
+                  "pid": 45,
+                  "child": [
+                    {
+                      "id": 542,
+                      "name": "语文G1-2",
+                      "product_id": 635,
+                      "product_category_id": 83,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 543,
+                      "name": "语文G2-2",
+                      "product_id": 636,
+                      "product_category_id": 83,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 544,
+                      "name": "语文G3-2",
+                      "product_id": 637,
+                      "product_category_id": 83,
+                      "version_name": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 46,
+              "name": "短期班",
+              "category_status_id": 1,
+              "pid": 42,
+              "child": [
+                {
+                  "id": 52,
+                  "name": "拼音",
+                  "category_status_id": 1,
+                  "pid": 46,
+                  "child": [
+                    {
+                      "id": 436,
+                      "name": "K3A语文魔法拼音班",
+                      "product_id": 529,
+                      "product_category_id": 52,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 437,
+                      "name": "G1A语文魔法拼音班",
+                      "product_id": 530,
+                      "product_category_id": 52,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 66,
+                  "name": "Demo课",
+                  "category_status_id": 1,
+                  "pid": 46,
+                  "child": [
+                    {
+                      "id": 401,
+                      "name": "K2A语文体验课",
+                      "product_id": 494,
+                      "product_category_id": 66,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 402,
+                      "name": "K3A语文体验课",
+                      "product_id": 495,
+                      "product_category_id": 66,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 403,
+                      "name": "G1A语文体验课",
+                      "product_id": 496,
+                      "product_category_id": 66,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 71,
+                  "name": "表达",
+                  "category_status_id": 1,
+                  "pid": 46,
+                  "child": [
+                    {
+                      "id": 433,
+                      "name": "K2A语文看图说话班",
+                      "product_id": 526,
+                      "product_category_id": 71,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 434,
+                      "name": "K3A语文看图说话班",
+                      "product_id": 527,
+                      "product_category_id": 71,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 435,
+                      "name": "G1A语文看图说话班",
+                      "product_id": 528,
+                      "product_category_id": 71,
+                      "version_name": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 43,
+          "name": "数学",
+          "category_status_id": 1,
+          "pid": 1,
+          "child": [
+            {
+              "id": 47,
+              "name": "常规班",
+              "category_status_id": 1,
+              "pid": 43,
+              "child": [
+                {
+                  "id": 44,
+                  "name": "数学2020",
+                  "category_status_id": 1,
+                  "pid": 47,
+                  "child": [
+                    {
+                      "id": 291,
+                      "name": "K1A（数学）",
+                      "product_id": 383,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 292,
+                      "name": "K2A（数学）",
+                      "product_id": 384,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 293,
+                      "name": "K3A（数学）",
+                      "product_id": 385,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 307,
+                      "name": "K1B（数学）",
+                      "product_id": 399,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 317,
+                      "name": "K1B数学（下）-南北",
+                      "product_id": 410,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 318,
+                      "name": "K2B数学（下）-南北",
+                      "product_id": 411,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 319,
+                      "name": "K3B数学（下）-南北",
+                      "product_id": 412,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 320,
+                      "name": "G1B数学（下）-南北",
+                      "product_id": 413,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 321,
+                      "name": "G2B数学（下）-南北",
+                      "product_id": 414,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 322,
+                      "name": "G3B数学（下）-南北",
+                      "product_id": 415,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 323,
+                      "name": "G4B数学（下）-南北",
+                      "product_id": 416,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 339,
+                      "name": "K1A数学-北京",
+                      "product_id": 432,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 340,
+                      "name": "K2A数学-北京",
+                      "product_id": 433,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 341,
+                      "name": "K3A数学-北京",
+                      "product_id": 434,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 342,
+                      "name": "K1A思维-上海",
+                      "product_id": 435,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 343,
+                      "name": "K2A思维-上海",
+                      "product_id": 436,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 344,
+                      "name": "K3A思维-上海",
+                      "product_id": 437,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 358,
+                      "name": "K3B（数学）",
+                      "product_id": 451,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 370,
+                      "name": "G0数学-北京",
+                      "product_id": 463,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 371,
+                      "name": "G0（数学）",
+                      "product_id": 464,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 384,
+                      "name": "K1A数学（下）",
+                      "product_id": 477,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 385,
+                      "name": "K2A数学（下）",
+                      "product_id": 478,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 386,
+                      "name": "K3A数学（下）",
+                      "product_id": 479,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 391,
+                      "name": "K1B数学（下）",
+                      "product_id": 484,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 392,
+                      "name": "K2B数学（下）",
+                      "product_id": 485,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 393,
+                      "name": "K3B数学（下）",
+                      "product_id": 486,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 410,
+                      "name": "K1A数学-广州",
+                      "product_id": 503,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 411,
+                      "name": "K1B数学-广州",
+                      "product_id": 504,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 412,
+                      "name": "K2A数学-广州",
+                      "product_id": 505,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 413,
+                      "name": "K2B数学-广州",
+                      "product_id": 506,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 414,
+                      "name": "K3A数学-广州",
+                      "product_id": 507,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 415,
+                      "name": "K3B数学-广州",
+                      "product_id": 508,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 416,
+                      "name": "G1A数学-广州",
+                      "product_id": 509,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 445,
+                      "name": "K1A数学（45分钟）",
+                      "product_id": 538,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 446,
+                      "name": "K1B数学（45分钟）",
+                      "product_id": 539,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 447,
+                      "name": "K2A数学（45分钟）",
+                      "product_id": 540,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 448,
+                      "name": "K2B数学（45分钟）",
+                      "product_id": 541,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 449,
+                      "name": "K3A数学（45分钟）",
+                      "product_id": 542,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 450,
+                      "name": "G1A数学（45分钟）",
+                      "product_id": 543,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 451,
+                      "name": "G2A数学（45分钟）",
+                      "product_id": 544,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 452,
+                      "name": "G3A数学（45分钟）",
+                      "product_id": 545,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 453,
+                      "name": "G4A数学（45分钟）",
+                      "product_id": 546,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 454,
+                      "name": "G5A数学（45分钟）",
+                      "product_id": 547,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 455,
+                      "name": "G6A数学（45分钟）",
+                      "product_id": 548,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 456,
+                      "name": "K2B（数学）",
+                      "product_id": 549,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 457,
+                      "name": "G1A（数学）",
+                      "product_id": 550,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 458,
+                      "name": "G1B（数学）",
+                      "product_id": 551,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 459,
+                      "name": "G1A思维-上海",
+                      "product_id": 552,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 460,
+                      "name": "G2A思维-上海",
+                      "product_id": 553,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 464,
+                      "name": "G2A（数学）",
+                      "product_id": 557,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 465,
+                      "name": "G2B（数学）",
+                      "product_id": 558,
+                      "product_category_id": 44,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 59,
+                  "name": "数学2020（下）",
+                  "category_status_id": 1,
+                  "pid": 47,
+                  "child": [
+                    {
+                      "id": 325,
+                      "name": "K2A数学（下）-南北",
+                      "product_id": 418,
+                      "product_category_id": 59,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 326,
+                      "name": "K3A数学（下）-南北",
+                      "product_id": 419,
+                      "product_category_id": 59,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 327,
+                      "name": "K1B数学（下）-广州",
+                      "product_id": 420,
+                      "product_category_id": 59,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 328,
+                      "name": "K2B数学（下）-广州",
+                      "product_id": 421,
+                      "product_category_id": 59,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 329,
+                      "name": "K3B数学（下）-广州",
+                      "product_id": 422,
+                      "product_category_id": 59,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 330,
+                      "name": "K1A数学（下）-广州",
+                      "product_id": 423,
+                      "product_category_id": 59,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 331,
+                      "name": "K2A数学（下）-广州",
+                      "product_id": 424,
+                      "product_category_id": 59,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 332,
+                      "name": "K3A数学（下）-广州",
+                      "product_id": 425,
+                      "product_category_id": 59,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 333,
+                      "name": "K1B思维（下）-上海",
+                      "product_id": 426,
+                      "product_category_id": 59,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 334,
+                      "name": "K2B思维（下）-上海",
+                      "product_id": 427,
+                      "product_category_id": 59,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 335,
+                      "name": "K3B思维（下）-上海",
+                      "product_id": 428,
+                      "product_category_id": 59,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 336,
+                      "name": "G1B思维（下）-上海",
+                      "product_id": 429,
+                      "product_category_id": 59,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 337,
+                      "name": "G5B数学（下）-北京",
+                      "product_id": 430,
+                      "product_category_id": 59,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 338,
+                      "name": "G6B数学（下）-北京",
+                      "product_id": 431,
+                      "product_category_id": 59,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 374,
+                      "name": "G4B数学（下）-数学小组",
+                      "product_id": 467,
+                      "product_category_id": 59,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 80,
+                  "name": "幼儿K系列",
+                  "category_status_id": 1,
+                  "pid": 47,
+                  "child": [
+                    {
+                      "id": 526,
+                      "name": "数学K1-2",
+                      "product_id": 619,
+                      "product_category_id": 80,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 527,
+                      "name": "数学K2-2",
+                      "product_id": 620,
+                      "product_category_id": 80,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 528,
+                      "name": "数学K3-2",
+                      "product_id": 621,
+                      "product_category_id": 80,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 535,
+                      "name": "数学K1-OL-2",
+                      "product_id": 628,
+                      "product_category_id": 80,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 536,
+                      "name": "数学K2-OL-2",
+                      "product_id": 629,
+                      "product_category_id": 80,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 537,
+                      "name": "数学K3-OL-2",
+                      "product_id": 630,
+                      "product_category_id": 80,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 545,
+                      "name": "数学K1-1",
+                      "product_id": 638,
+                      "product_category_id": 80,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 546,
+                      "name": "数学K2-1",
+                      "product_id": 639,
+                      "product_category_id": 80,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 547,
+                      "name": "数学K3-1",
+                      "product_id": 640,
+                      "product_category_id": 80,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 548,
+                      "name": "数学K1-OL-1",
+                      "product_id": 641,
+                      "product_category_id": 80,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 549,
+                      "name": "数学K2-OL-1",
+                      "product_id": 642,
+                      "product_category_id": 80,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 550,
+                      "name": "数学K3-OL-1",
+                      "product_id": 643,
+                      "product_category_id": 80,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 81,
+                  "name": "小学G系列",
+                  "category_status_id": 1,
+                  "pid": 47,
+                  "child": [
+                    {
+                      "id": 529,
+                      "name": "数学G1-2",
+                      "product_id": 622,
+                      "product_category_id": 81,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 530,
+                      "name": "数学G2-2",
+                      "product_id": 623,
+                      "product_category_id": 81,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 531,
+                      "name": "数学G3-2",
+                      "product_id": 624,
+                      "product_category_id": 81,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 532,
+                      "name": "数学G4-2",
+                      "product_id": 625,
+                      "product_category_id": 81,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 533,
+                      "name": "数学G5-2",
+                      "product_id": 626,
+                      "product_category_id": 81,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 534,
+                      "name": "数学G6-2",
+                      "product_id": 627,
+                      "product_category_id": 81,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 538,
+                      "name": "数学G1-OL-2",
+                      "product_id": 631,
+                      "product_category_id": 81,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 539,
+                      "name": "数学G2-OL-2",
+                      "product_id": 632,
+                      "product_category_id": 81,
+                      "version_name": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 48,
+              "name": "短期班",
+              "category_status_id": 1,
+              "pid": 43,
+              "child": [
+                {
+                  "id": 49,
+                  "name": "魔方",
+                  "category_status_id": 1,
+                  "pid": 48,
+                  "child": [
+                    {
+                      "id": 299,
+                      "name": "2阶魔方启蒙班",
+                      "product_id": 391,
+                      "product_category_id": 49,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 50,
+                  "name": "计算",
+                  "category_status_id": 1,
+                  "pid": 48,
+                  "child": [
+                    {
+                      "id": 305,
+                      "name": "计算初阶班",
+                      "product_id": 397,
+                      "product_category_id": 50,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 306,
+                      "name": "计算A阶班",
+                      "product_id": 398,
+                      "product_category_id": 50,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 398,
+                      "name": "数学魔法计算基础班",
+                      "product_id": 491,
+                      "product_category_id": 50,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 399,
+                      "name": "数学魔法计算B阶班",
+                      "product_id": 492,
+                      "product_category_id": 50,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 400,
+                      "name": "数学魔法计算C阶班",
+                      "product_id": 493,
+                      "product_category_id": 50,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 425,
+                      "name": "K2数学计算A阶班",
+                      "product_id": 518,
+                      "product_category_id": 50,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 426,
+                      "name": "K3数学计算B阶班",
+                      "product_id": 519,
+                      "product_category_id": 50,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 427,
+                      "name": "G1数学计算C阶班",
+                      "product_id": 520,
+                      "product_category_id": 50,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 61,
+                  "name": "续报赠课",
+                  "category_status_id": 1,
+                  "pid": 48,
+                  "child": [
+                    {
+                      "id": 359,
+                      "name": "K1思维萌芽班",
+                      "product_id": 452,
+                      "product_category_id": 61,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 360,
+                      "name": "K2思维探索班",
+                      "product_id": 453,
+                      "product_category_id": 61,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 361,
+                      "name": "K3思维飞跃班",
+                      "product_id": 454,
+                      "product_category_id": 61,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 369,
+                      "name": "5节课探秘数学趣题",
+                      "product_id": 462,
+                      "product_category_id": 61,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 67,
+                  "name": "Demo课",
+                  "category_status_id": 1,
+                  "pid": 48,
+                  "child": [
+                    {
+                      "id": 314,
+                      "name": "Pre-K2",
+                      "product_id": 407,
+                      "product_category_id": 67,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 315,
+                      "name": "Pre-G0",
+                      "product_id": 408,
+                      "product_category_id": 67,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 316,
+                      "name": "SP-2020",
+                      "product_id": 409,
+                      "product_category_id": 67,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 407,
+                      "name": "K1B数学体验课",
+                      "product_id": 500,
+                      "product_category_id": 67,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 408,
+                      "name": "K2B数学体验课",
+                      "product_id": 501,
+                      "product_category_id": 67,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 409,
+                      "name": "K3B数学体验课",
+                      "product_id": 502,
+                      "product_category_id": 67,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 69,
+                  "name": "思维",
+                  "category_status_id": 1,
+                  "pid": 48,
+                  "child": [
+                    {
+                      "id": 428,
+                      "name": "G0数学思维火箭班",
+                      "product_id": 521,
+                      "product_category_id": 69,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 429,
+                      "name": "G1数学思维畅游班",
+                      "product_id": 522,
+                      "product_category_id": 69,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 438,
+                      "name": "摩比护航计划K1A",
+                      "product_id": 531,
+                      "product_category_id": 69,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 439,
+                      "name": "摩比护航计划K1B",
+                      "product_id": 532,
+                      "product_category_id": 69,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 440,
+                      "name": "摩比护航计划K2A",
+                      "product_id": 533,
+                      "product_category_id": 69,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 441,
+                      "name": "摩比护航计划K2B",
+                      "product_id": 534,
+                      "product_category_id": 69,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 442,
+                      "name": "摩比护航计划K3B",
+                      "product_id": 535,
+                      "product_category_id": 69,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 466,
+                      "name": "思维萌芽班K1",
+                      "product_id": 559,
+                      "product_category_id": 69,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 467,
+                      "name": "思维萌芽班K2",
+                      "product_id": 560,
+                      "product_category_id": 69,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 468,
+                      "name": "思维萌芽班K3",
+                      "product_id": 561,
+                      "product_category_id": 69,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 469,
+                      "name": "数学思维精品班K2",
+                      "product_id": 562,
+                      "product_category_id": 69,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 470,
+                      "name": "数学思维精品班K3",
+                      "product_id": 563,
+                      "product_category_id": 69,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 471,
+                      "name": "数学思维精品班G0",
+                      "product_id": 564,
+                      "product_category_id": 69,
+                      "version_name": "1"
+                    }
+                  ]
+                },
+                {
+                  "id": 70,
+                  "name": "数独",
+                  "category_status_id": 1,
+                  "pid": 48,
+                  "child": [
+                    {
+                      "id": 430,
+                      "name": "G0数学专业数独A段",
+                      "product_id": 523,
+                      "product_category_id": 70,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 431,
+                      "name": "G1数学专业数独B段",
+                      "product_id": 524,
+                      "product_category_id": 70,
+                      "version_name": "1"
+                    },
+                    {
+                      "id": 432,
+                      "name": "G2数学专业数独C段",
+                      "product_id": 525,
+                      "product_category_id": 70,
+                      "version_name": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "trace_id": "733725f8d46e3e3159",
+  "ts": 1603094243
+}

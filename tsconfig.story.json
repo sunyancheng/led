@@ -1,0 +1,45 @@
+{
+  // More tsconfig info see https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
+  "include": ["typings/*", "stories/**/*"],
+  "exclude": ["lib", "es"],
+  "compilerOptions": {
+    // "listFiles": true,
+    /* Project Options */
+    "target": "ES6",
+    "module": "ESNext",
+    "removeComments": true,
+    "jsx": "react",
+
+    /* Strict Checks */
+    "alwaysStrict": true,
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "strict": true,
+    "strictBindCallApply": true,
+    "strictFunctionTypes": true,
+    "strictNullChecks": true,
+    "strictPropertyInitialization": true,
+
+    /* Module Resolution */
+    "rootDir": "stories/",
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": "./",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "paths": {
+      "leap-ui": ["./components"]
+    },
+
+    /* Linter Checks */
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+
+    /* Advanced Options */
+    "resolveJsonModule": true,
+    "skipDefaultLibCheck": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
