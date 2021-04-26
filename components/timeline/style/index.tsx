@@ -1,1 +1,1 @@
-import "antd/lib/timeline/style/index.js";
+import "antd/lib/timeline/style/css.js";

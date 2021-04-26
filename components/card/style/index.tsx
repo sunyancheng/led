@@ -1,1 +1,1 @@
-import "antd/lib/card/style/index.js";
+import "antd/lib/card/style/css.js";

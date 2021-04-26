@@ -1,1 +1,1 @@
-import "antd/lib/steps/style/index.js";
+import "antd/lib/steps/style/css.js";

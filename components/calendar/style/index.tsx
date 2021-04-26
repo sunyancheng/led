@@ -1,1 +1,1 @@
-import "antd/lib/calendar/style/index.js";
+import "antd/lib/calendar/style/css.js";

@@ -1,1 +1,1 @@
-import "antd/lib/divider/style/index.js";
+import "antd/lib/divider/style/css.js";

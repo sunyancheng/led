@@ -1,2 +1,2 @@
-import "antd/lib/notification/style/index.js";
+import "antd/lib/notification/style/css.js";
 import "./index.less";

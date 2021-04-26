@@ -1,4 +1,4 @@
-import "antd/lib/date-picker/style/index.js";
+import "antd/lib/date-picker/style/css.js";
 import "./index.less";
 import "./calendar.less";
 import "./rangeWeekPicker.less";

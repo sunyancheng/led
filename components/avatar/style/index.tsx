@@ -1,1 +1,1 @@
-import "antd/lib/avatar/style/index.js";
+import "antd/lib/avatar/style/css.js";

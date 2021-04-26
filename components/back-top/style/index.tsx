@@ -1,1 +1,1 @@
-import "antd/lib/back-top/style/index.js";
+import "antd/lib/back-top/style/css.js";

@@ -1,2 +1,2 @@
-import "antd/lib/drawer/style/index.js";
+import "antd/lib/drawer/style/css.js";
 import "./index.less";

@@ -1,1 +1,1 @@
-import "antd/lib/progress/style/index.js";
+import "antd/lib/progress/style/css.js";

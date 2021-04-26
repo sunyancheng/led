@@ -1,1 +1,1 @@
-import "antd/lib/collapse/style/index.js";
+import "antd/lib/collapse/style/css.js";

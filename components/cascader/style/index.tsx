@@ -1,3 +1,3 @@
-import "antd/lib/cascader/style/index.js";
+import "antd/lib/cascader/style/css.js";
 
 import "./index.less";

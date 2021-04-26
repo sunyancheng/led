@@ -1,2 +1,2 @@
-import "antd/lib/pagination/style/index.js";
+import "antd/lib/pagination/style/css.js";
 import "./index.less";

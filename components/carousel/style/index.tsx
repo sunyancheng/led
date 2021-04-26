@@ -1,1 +1,1 @@
-import "antd/lib/carousel/style/index.js";
+import "antd/lib/carousel/style/css.js";

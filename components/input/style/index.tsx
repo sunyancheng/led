@@ -1,3 +1,3 @@
-import "antd/lib/input/style/index.js";
+import "antd/lib/input/style/css.js";
 import "./index.less";
 import "./group.less";

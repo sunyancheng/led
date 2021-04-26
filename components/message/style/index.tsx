@@ -1,2 +1,2 @@
-import "antd/lib/message/style/index.js";
+import "antd/lib/message/style/css.js";
 import "./index.less";

@@ -1,2 +1,2 @@
-import "antd/lib/switch/style/index.js";
+import "antd/lib/switch/style/css.js";
 import "./index.less";

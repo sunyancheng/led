@@ -1,1 +1,1 @@
-import "antd/lib/page-header/style/index.js";
+import "antd/lib/page-header/style/css.js";
