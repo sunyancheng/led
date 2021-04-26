@@ -1,1 +1,1 @@
-import "antd/lib/tooltip/style/index.js";
+import "antd/lib/tooltip/style/css.js";

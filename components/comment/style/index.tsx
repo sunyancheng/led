@@ -1,1 +1,1 @@
-import "antd/lib/comment/style/index.js";
+import "antd/lib/comment/style/css.js";

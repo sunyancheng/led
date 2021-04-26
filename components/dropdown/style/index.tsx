@@ -1,1 +1,1 @@
-import "antd/lib/dropdown/style/index.js";
+import "antd/lib/dropdown/style/css.js";

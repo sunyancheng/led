@@ -1,1 +1,1 @@
-import "antd/lib/badge/style/index.js";
+import "antd/lib/badge/style/css.js";

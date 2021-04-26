@@ -1,2 +1,2 @@
-import "antd/lib/tabs/style/index.js";
+import "antd/lib/tabs/style/css.js";
 import "./index.less";

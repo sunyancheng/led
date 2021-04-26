@@ -1,1 +1,1 @@
-import "antd/lib/typography/style/index.js";
+import "antd/lib/typography/style/css.js";

@@ -1,1 +1,1 @@
-import "antd/lib/popconfirm/style/index.js";
+import "antd/lib/popconfirm/style/css.js";

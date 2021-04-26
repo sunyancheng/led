@@ -1,1 +1,1 @@
-import "antd/lib/affix/style/index.js";
+import "antd/lib/affix/style/css.js";

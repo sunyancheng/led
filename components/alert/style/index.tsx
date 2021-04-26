@@ -1,1 +1,1 @@
-import "antd/lib/alert/style/index.js";
+import "antd/lib/alert/style/css.js";

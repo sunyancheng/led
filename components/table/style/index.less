@@ -308,25 +308,39 @@
   }
 
   .ant-table-placeholder {
-    &::after {
-      content: "\6682\65E0\6570\636E\7E";
-      display: block;
-      font-size: 12px;
-      color: rgba(6, 27, 54, 0.6);
-    }
-
     .ant-empty {
-      display: none;
+      margin: 0;
+
+      > * {
+        display: none;
+      }
+
+      &::before {
+        content: "";
+        display: block;
+        height: 100px;
+        width: 90px;
+        margin: 10px auto 20px;
+        background: url(./../img/img_kong.png) no-repeat center;
+        background-size: 100%;
+      }
+
+      &::after {
+        content: "\6682\65E0\6570\636E\7E";
+        display: block;
+        font-size: 12px;
+        color: rgba(6, 27, 54, 0.6);
+      }
     }
 
-    &::before {
-      content: "";
-      display: block;
-      height: 100px;
-      width: 90px;
-      margin: 32px auto 8px;
-      background: url(./../img/img_kong.png) no-repeat center;
-      background-size: 100%;
-    }
+    // &::before {
+    //   content: "";
+    //   display: block;
+    //   height: 100px;
+    //   width: 90px;
+    //   margin: 32px auto 8px;
+    //   background: url(./../img/img_kong.png) no-repeat center;
+    //   background-size: 100%;
+    // }
   }
 }

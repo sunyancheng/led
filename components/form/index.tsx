@@ -1,6 +1,5 @@
 import React, { Component } from "react";
-import { Form as AntdForm } from "@ant-design/compatible";
-import "@ant-design/compatible/assets/index.css";
+import { Form as AntdForm } from "antd";
 import * as AntdFormInterface from "antd/es/form";
 import ClassNames from "classnames";
 
@@ -8,13 +7,16 @@ import "./style";
 
 const FormItem = AntdForm.Item;
 
+const useForm = AntdForm.useForm;
+
 class Form extends Component<AntdFormInterface.FormProps> {
   static Item: typeof FormItem = FormItem;
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  static create: typeof AntdForm.create = AntdForm.create;
+
+  static useForm: typeof useForm = useForm;
 
   render() {
-    return <AntdForm className={ClassNames("fl-form", this.props.className)} {...this.props} />;
+    const { className, ...props } = this.props;
+    return <AntdForm className={ClassNames("fl-form", className)} {...props} />;
   }
 }
 

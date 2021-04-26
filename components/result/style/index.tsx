@@ -1,1 +1,1 @@
-import "antd/lib/result/style/index.js";
+import "antd/lib/result/style/css.js";

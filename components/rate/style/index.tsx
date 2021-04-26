@@ -1,1 +1,1 @@
-import "antd/lib/rate/style/index.js";
+import "antd/lib/rate/style/css.js";

@@ -1,1 +1,1 @@
-import "antd/lib/statistic/style/index.js";
+import "antd/lib/statistic/style/css.js";

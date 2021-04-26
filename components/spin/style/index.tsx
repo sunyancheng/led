@@ -1,1 +1,1 @@
-import "antd/lib/spin/style/index.js";
+import "antd/lib/spin/style/css.js";

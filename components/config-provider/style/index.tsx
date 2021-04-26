@@ -1,1 +1,1 @@
-import "antd/lib/config-provider/style/index.js";
+import "antd/lib/config-provider/style/css.js";

@@ -1,1 +1,1 @@
-import "antd/lib/skeleton/style/index.js";
+import "antd/lib/skeleton/style/css.js";
