@@ -12,8 +12,8 @@
   }
 }
 
-.fl-btn.ant-btn:not(.ant-btn-link),
-.ant-btn:not(.ant-btn-link) {
+.fl-btn.ant-btn,
+.ant-btn {
   font-size: 14px;
   // 线框按钮/次按钮
   color: rgba(6, 27, 54, 0.6);
@@ -180,6 +180,33 @@
     }
   }
 
+  &.ant-btn-link {
+    background: transparent;
+    border: transparent;
+
+    &:not([disabled]) {
+      i {
+        color: #1890ff !important;
+      }
+
+      color: #1890ff !important;
+      background-color: #fff;
+      box-shadow: none !important;
+
+      &:hover,
+      &:active,
+      &:focus {
+        border-color: #1890ff !important;
+        background: none !important;
+      }
+
+      &:active,
+      &:focus {
+        box-shadow: 0 0 0 2px rgba(255, 73, 90, 0.2) inset !important;
+      }
+    }
+  }
+
   // 包含Icon的按钮
   & > .iconfont + span,
   & > .flfont + span,
@@ -194,14 +221,14 @@
       & > .flfont,
       & > .anticon,
       & > .ifont {
-        color: rgba(255, 73, 90, 1) !important;
+        color: #1890ff !important;
       }
 
       &:hover,
       &:active,
       &:focus {
-        color: rgba(255, 73, 90, 1) !important;
-        border-color: rgba(255, 73, 90, 1) !important;
+        color: #1890ff !important;
+        border-color: #1890ff !important;
       }
 
       &:active,
