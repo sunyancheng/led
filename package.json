@@ -1,7 +1,7 @@
 {
   "name": "led",
   "version": "0.0.2",
-  "description": "A UI component library based on React",
+  "description": "Leap Design - A UI component library based on antd",
   "main": "lib/index.js",
   "module": "es/index.js",
   "typings": "es/index.d.ts",
